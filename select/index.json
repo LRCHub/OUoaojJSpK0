@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "New Light",
+  "base_artist": "John Mayer",
+  "createdAt": "2025-12-23T20:44:24.218232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New Light of Tomorrow",
+      "artist": "Husky Rescue",
+      "has_synced": true,
+      "path": "select/01_New_Light_of_Tomorrow_Husky_Rescue.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New Light",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/02_New_Light_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You've Got a New Light Shining in Your Eyes",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/03_You've_Got_a_New_Light_Shining_in_Your_Eyes_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Johnny) New Light",
+      "artist": "The Dream Academy",
+      "has_synced": true,
+      "path": "select/04_(Johnny)_New_Light_The_Dream_Academy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alive In New Light",
+      "artist": "IAMX",
+      "has_synced": true,
+      "path": "select/05_Alive_In_New_Light_IAMX.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Light",
+      "artist": "Woods",
+      "has_synced": false,
+      "path": "select/06_New_Light_Woods.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New Light",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/07_New_Light_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New Light",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/08_New_Light_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "To the New Light",
+      "artist": "Laibach",
+      "has_synced": false,
+      "path": "select/09_To_the_New_Light_Laibach.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New Light",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/10_New_Light_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "new light",
+      "artist": "Avenue Beat",
+      "has_synced": false,
+      "path": "select/11_new_light_Avenue_Beat.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New Light",
+      "artist": "Wild Party",
+      "has_synced": true,
+      "path": "select/12_New_Light_Wild_Party.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A New Light",
+      "artist": "Funeral Mist",
+      "has_synced": true,
+      "path": "select/13_A_New_Light_Funeral_Mist.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "New Light of Tomorrow - Bonobo Remix",
+      "artist": "Husky Rescue",
+      "has_synced": true,
+      "path": "select/14_New_Light_of_Tomorrow_-_Bonobo_Remix_Husky_Rescue.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "New Light Of Tomorrow (Bonobo Remix)",
+      "artist": "Husky Rescue",
+      "has_synced": true,
+      "path": "select/15_New_Light_Of_Tomorrow_(Bonobo_Remix)_Husky_Rescue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Light",
+      "artist": "John Mayer",
+      "has_synced": false,
+      "path": "select/pl_01_New_Light_John_Mayer.txt"
+    }
+  ]
+}
